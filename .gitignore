@@ -1,0 +1,6 @@
+this is my 1st work .i m very excited.I faced a lot of problems while doing the inquiry on MacBook.Because I had sudo installed .
+Then I commanded him with all my heart and then my inquiry started.
+a) sudo npm install --save inquirer
+b)sudo chown -R$(whoami) ~/.npm
+c)npm cache clean --force
+d)npm install --save inquirer
